@@ -16,6 +16,13 @@ Chaque article comprend : extrait authentique · annotations lexicales · notes 
 | 05 | [L'Académie française : gardienne de la langue ou institution anachronique ?](./article_05_academie_francaise.md) | Langue / Institutions |
 | 06 | [Le baccalauréat : mythe républicain et réforme permanente](./article_06_baccalaureat.md) | Éducation / Société |
 | 07 | [Les Grandes Écoles : excellence républicaine ou reproduction des élites ?](./article_07_grandes_ecoles.md) | Éducation supérieure / Sociologie |
+| 08 | [Les Gilets jaunes : crise sociale et démocratie directe](./article_08_gilets_jaunes.md) | Mouvement social / Politique |
+| 09 | [La bande dessinée franco-belge : le neuvième art](./article_09_bande_dessinee.md) | Arts / Culture populaire |
+| 10 | [La Sécurité sociale : modèle universel et défis contemporains](./article_10_securite_sociale.md) | Protection sociale / Histoire |
+| 11 | [La Francophonie : langue partagée, puissance contestée](./article_11_francophonie.md) | Géopolitique linguistique |
+| 12 | [Le surréalisme : révolution de l'inconscient](./article_12_surrealisme.md) | Littérature / Arts |
+| 13 | [Les châteaux de la Loire : pierre et pouvoir à la Renaissance](./article_13_chateaux_loire.md) | Architecture / Histoire |
+| 14 | [Les Lumières : raison, liberté et héritage ambigu](./article_14_lumieres.md) | Philosophie / Histoire intellectuelle |
 
 ---
 
