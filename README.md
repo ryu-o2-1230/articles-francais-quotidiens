@@ -43,3 +43,6 @@ Chaque article comprend : extrait authentique · annotations lexicales · notes 
 ---
 
 *Généré avec Claude (Anthropic) · Mai 2026*
+| 20 | [Histoire culturelle de la sexualité : des pratiques aux discours](./article_20_histoire_sexualite.md) | Histoire culturelle / Anthropologie |
+| 21 | [Histoire culturelle de la masturbation : du péché solitaire à la panique morale](./article_21_histoire_masturbation.md) | Histoire des idées / Médecine |
+| 22 | [Histoire culturelle de la fellation : tabous, normes et reconfigurations du désir](./article_22_histoire_fellation.md) | Histoire des mœurs / Anthropologie |
