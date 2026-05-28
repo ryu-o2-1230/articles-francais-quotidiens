@@ -23,6 +23,11 @@ Chaque article comprend : extrait authentique · annotations lexicales · notes 
 | 12 | [Le surréalisme : révolution de l'inconscient](./article_12_surrealisme.md) | Littérature / Arts |
 | 13 | [Les châteaux de la Loire : pierre et pouvoir à la Renaissance](./article_13_chateaux_loire.md) | Architecture / Histoire |
 | 14 | [Les Lumières : raison, liberté et héritage ambigu](./article_14_lumieres.md) | Philosophie / Histoire intellectuelle |
+| 15 | [La littérature libertine : éros, raison et subversion au XVIIIe siècle](./article_15_litterature_libertine.md) | Littérature / Histoire culturelle |
+| 16 | [Les maisons closes et la loi Marthe Richard](./article_16_maisons_closes.md) | Histoire sociale / Droit / Genre |
+| 17 | [Mai 68 et la révolution des mœurs](./article_17_mai68_liberation.md) | Histoire contemporaine / Sociologie |
+| 18 | [Foucault et l'*Histoire de la sexualité*](./article_18_foucault_sexualite.md) | Philosophie / Théorie du pouvoir |
+| 19 | [Le Moulin Rouge et la culture du cabaret](./article_19_moulin_rouge.md) | Histoire culturelle / Arts du spectacle |
 
 ---
 
